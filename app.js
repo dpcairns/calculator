@@ -1,5 +1,6 @@
 const addButton = document.getElementById('sum-button');
 
+const myCoolNumber = 7;
 
 addButton.addEventListener('click', () => {
     // post-click logic goes here!
